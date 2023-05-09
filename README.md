@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
-<p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<p>
+O Habits é um Habit tracker, ou seja, é um sistema que auxilia o utilizador a ter um controle de hábitos através do acompanhamento constante. Esse projeto foi promovido pela Rocketseat para ensino de tecnologias WEB, durante o NLW, evento exclusivo e gratuito.<br/>
 </p>
 
 <p align="center">
